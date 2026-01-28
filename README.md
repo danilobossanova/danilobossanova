@@ -76,9 +76,9 @@ Trabalho construindo soluções **robustas, escaláveis e orientadas a negócio*
 
 ## 📊 GitHub em números
 
-![Stats](https://github-readme-stats.vercel.app/api?username=danilobossanova&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=danilobossanova&theme=vue-dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilobossanova&theme=vue-dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=danilobossanova&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=danilobossanova&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilobossanova&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
