@@ -1,27 +1,100 @@
-# 💫Sobre mim :
-- 🎓 **Formação**: Análise e Desenvolvimento de Sistemas (FIAP) e MBA em Ciência de Dados (IPOG).
-- 🔭 **Experiência**: Desenvolvimento de sistemas em empresas de grande porte, com foco em frameworks PHP, Java, Kotliln, Spring Boot, Vue.js 3, Angular e metodologias ágeis.
-- 🌱 **Estudando atualmente**: Certificação AZ-900: Microsoft Azure Fundamentals
-- 💬 **Especialidades**: Oracle (PLSQL, 19C), Java (Spring Boot), Sankhya, PHP (Laravel, Zend), JavaScript (AngularJS, Vue.js), Docker, Kubernetes, CI/CD, TDD, Scrum.
-- 📫 **Contato**: [danilo.bossanova@hotmail.com](mailto:danilo.bossanova@hotmail.com)
-- ⚡ **Curiosidade**: Apaixonado pelo Vasco da Gama
+# 👋 Olá, eu sou Danilo Fernando
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danilo-fernando-3a4a49212/) 
-
-# 💻Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=plastic&logo=insomnia&logoColor=5849BE) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=plastic&logo=symfony&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=plastic&logo=Thymeleaf&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=plastic&logo=vuetify&logoColor=AEDDFF) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=plastic&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white)
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=danilobossanova&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=danilobossanova&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilobossanova&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=danilobossanova&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Engenheiro de Software com forte atuação em **backend, arquitetura de sistemas e integrações enterprise**.  
+Trabalho construindo soluções **robustas, escaláveis e orientadas a negócio**, com foco em qualidade, clareza e impacto real.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=danilobossanova&icon=0&color=1)](https://visitcount.itsvg.in)
+
+## 🧭 Sobre mim
+
+🎓 **Formação**
+- Análise e Desenvolvimento de Sistemas – FIAP  
+- MBA em Ciência de Dados – IPOG
+- Pos Tech Arquitetura de Desenvolvimento Java - FIAP
+
+💼 **Experiência**
+- Desenvolvimento de sistemas corporativos e integrações complexas
+- Atuação em ambientes **enterprise**, com alto volume de dados e regras de negócio críticas
+- Forte vivência com **ERP, WMS, APIs, mensageria e automação de processos**
+
+🧠 **Perfil técnico**
+- Mentalidade de **engenharia**, não apenas código
+- Forte aderência a **Clean Code, Clean Architecture, SOLID e boas práticas**
+- Código legível, testável e sustentável no longo prazo
+
+⚽ **Extra**
+- Apaixonado pelo Vasco da Gama (sim, isso diz muito sobre resiliência 😄)
+
+---
+
+## 🛠️ Áreas de Especialidade
+
+### Backend & Arquitetura
+- Java (Spring Boot)
+- PHP (Laravel)
+- APIs RESTful
+- Clean Architecture
+- Design Patterns
+- Integrações entre sistemas
+
+### Bancos de Dados & Dados
+- Oracle 19c (PL/SQL)
+- PostgreSQL, MySQL, SQL Server
+- Modelagem de dados
+- Performance e otimização
+- Fundamentos de Ciência de Dados
+
+### Frontend (quando necessário)
+- Vue.js 3
+- Angular
+- HTML, CSS, JavaScript, TypeScript
+
+### DevOps & Qualidade
+- Docker & Kubernetes
+- CI/CD
+- Testes automatizados (TDD)
+- Observabilidade e documentação técnica
+
+---
+
+## 🧰 Stack Principal
+
+> Tecnologias que realmente uso no dia a dia e domino com profundidade:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=spring&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vuedotjs&logoColor=4FC08D)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=plastic&logo=kubernetes&logoColor=white)
+
+*(Outras tecnologias fazem parte do repertório, mas aqui estão as que realmente entregam valor no meu dia a dia.)*
+
+---
+
+## 📊 GitHub em números
+
+![Stats](https://github-readme-stats.vercel.app/api?username=danilobossanova&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=danilobossanova&theme=vue-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilobossanova&theme=vue-dark&hide_border=true&layout=compact)
+
+---
+
+## 🏆 Reconhecimentos
+
+![Trophies](https://github-trophies.vercel.app/?username=danilobossanova&theme=radical&margin-w=4)
+
+---
+
+## 🔗 Contato & Redes
+
+📫 **Email**: [danilo.bossanova@hotmail.com](mailto:danilo.bossanova@hotmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/danilo-fernando](https://www.linkedin.com/in/danilo-fernando-3a4a49212/)
+
+---
+
+> *"Código é só o meio. O objetivo sempre é resolver problemas reais com clareza, eficiência e responsabilidade."*
+
+![Visitors](https://visitcount.itsvg.in/api?id=danilobossanova&color=1)
