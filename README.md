@@ -1,21 +1,21 @@
 # 👋 Olá, eu sou Danilo Fernando
 
-Engenheiro de Software com forte atuação em **backend, arquitetura de sistemas e integrações enterprise**.  
-Trabalho construindo soluções **robustas, escaláveis e orientadas a negócio**, com foco em qualidade, clareza e impacto real.
+**Senior Software Engineer | Java Architect | Enterprise Solutions**
+
+Construindo soluções **robustas e escaláveis** com foco em engenharia de plataforma e alta performance. Acredito que o código deve ser um ativo sustentável para o negócio.
 
 ---
 
 ## 🧭 Sobre mim
 
-🎓 **Formação**
-- Análise e Desenvolvimento de Sistemas – FIAP  
-- MBA em Ciência de Dados – IPOG
-- Pos Tech Arquitetura de Desenvolvimento Java - FIAP
+🎓 **Evolução Acadêmica**
+*   **MBA em Ciência de Dados** – IPOG
+*   **Pós Tech Arquitetura de Desenvolvimento Java** – FIAP
+*   **Análise e Desenvolvimento de Sistemas** – FIAP
 
-💼 **Experiência**
-- Desenvolvimento de sistemas corporativos e integrações complexas
-- Atuação em ambientes **enterprise**, com alto volume de dados e regras de negócio críticas
-- Forte vivência com **ERP, WMS, APIs, mensageria e automação de processos**
+💼 **Impacto Profissional**
+*   Especialista em ecossistemas **Enterprise** (ERP, WMS, APIs de alta carga).
+*   Foco em **Evolução de Frameworks** e padrões arquiteturais complexos.
 
 🧠 **Perfil técnico**
 - Mentalidade de **engenharia**, não apenas código
@@ -27,15 +27,14 @@ Trabalho construindo soluções **robustas, escaláveis e orientadas a negócio*
 
 ---
 
-## 🛠️ Áreas de Especialidade
+## 🛠️ Stack & Especialidades
 
-### Backend & Arquitetura
-- Java (Spring Boot)
-- PHP (Laravel)
-- APIs RESTful
-- Clean Architecture
-- Design Patterns
-- Integrações entre sistemas
+### 🏗️ Arquitetura & Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+*   **Patterns:** Clean Architecture, SOLID, Design Patterns, TDD.
+*   **Foco:** Sistemas de alta disponibilidade e mensageria.
 
 ### Bancos de Dados & Dados
 - Oracle 19c (PL/SQL)
